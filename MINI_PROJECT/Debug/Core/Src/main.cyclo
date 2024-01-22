@@ -1,0 +1,8 @@
+main.c:87:5:main	1
+main.c:181:6:SystemClock_Config	3
+main.c:227:13:MX_SPI5_Init	2
+main.c:265:13:MX_GPIO_Init	1
+main.c:314:6:StartTask01	3
+main.c:390:6:StartTask02	30
+main.c:576:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:593:6:Error_Handler	1
